@@ -3,10 +3,13 @@ position: relative;}
 
 .jumbotron{
     display: flex;
-    
-    background: position 0;;
-    height: ;
-    background-repeat: no-repeat
+       background-repeat: no-repeat
 }
 
-.work-container{display: flex;}}
+.work-container{display: flex;
+-ms-layout-grid: grid;}
+
+
+.CMImg{
+    height: 20px;
+}
