@@ -1,2 +1,12 @@
 .navbar-collapse{justify-content: flex-end;
 position: relative;}
+
+.jumbotron{
+    display: flex;
+    
+    background: position 0;;
+    height: ;
+    background-repeat: no-repeat
+}
+
+.work-container{display: flex;}}
